@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "イントゥ・ユー",
+  "base_artist": "Ariana Grande",
+  "createdAt": "2026-02-19T17:35:27.584275Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ソー・イントゥ・ユー",
+      "artist": "タミア",
+      "has_synced": true,
+      "path": "select/01_ソー・イントゥ・ユー_タミア.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "フォーリング・イントゥ・ユー",
+      "artist": "Hillsong 日本語",
+      "has_synced": false,
+      "path": "select/02_フォーリング・イントゥ・ユー_Hillsong_日本語.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Into You",
+      "artist": "Ariana Grande",
+      "has_synced": false,
+      "path": "select/pl_01_Into_You_Ariana_Grande.txt"
+    }
+  ]
+}
